@@ -1,5 +1,5 @@
 
-# WIP. Future home of several open source c++ libraries
+# Libraries for modern `C++`
 
 - Structured Preprocessor
 - Template Meta-Programming
